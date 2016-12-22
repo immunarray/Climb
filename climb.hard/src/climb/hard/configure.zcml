@@ -10,7 +10,8 @@
   <i18n:registerTranslations directory="locales" />
 
   <include package=".browser" />
-
+  <include package=".interfaces" />
+  <include package=".vocabularies" />
 
   <genericsetup:registerProfile
       name="default"
