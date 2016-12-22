@@ -1,0 +1,6 @@
+[report]
+include =
+    src/climb/*
+omit =
+    */test*
+    */upgrades/*
